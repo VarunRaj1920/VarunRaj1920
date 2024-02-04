@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunraj1920&label=Profile%20views&color=0e75b6&style=flat" alt="varunraj1920" /> </p>
 
-- 🔭 I’m currently working on [FishyCNN](https://github.com/VarunRaj1920/FishyCNN)
-
-- 🌱 I’m currently learning **SQL , Natural Language Processing**
-
-- 📫 How to reach me **varunraj8182@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/varunraj8182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunraj8182" height="30" width="40" /></a>
