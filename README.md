@@ -1,13 +1,35 @@
-<h1 align="center">Hi 👋, I'm Varun Raj</h1>
-<h3 align="center">A Data Science and Machine learning enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Varun Raj</h1>  
+<h3 align="center">Software Engineer | Data Science & Machine Learning | Scalable Systems</h3>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunraj1920&label=Profile%20views&color=0e75b6&style=flat" alt="varunraj1920" /> </p>
+<p align="left">  
+  <img src="https://komarev.com/ghpvc/?username=varunraj1920&label=Profile%20views&color=0e75b6&style=flat" alt="varunraj1920" />  
+</p>  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varunraj8182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunraj8182" height="30" width="40" /></a>
-</p>
+🚀 **About Me:**  
+🔹 Passionate **Software Engineer** with expertise in **Data Structures & Algorithms, System Design, and Scalable Applications**.  
+🔹 Skilled in **Java, Python, SQL**, and **Machine Learning** with hands-on experience in **LLMs & Prompt Engineering**.  
+🔹 Love solving complex problems and optimizing backend architectures for efficiency and performance.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+💡 **Key Projects:**  
+🔹 **[Ethereum Deposit Tracker](https://github.com/VarunRaj1920/Etherium-tracker)** – Built a real-time **Ethereum tracking system** using **Python & Telegram Bot**, enhancing transparency & automation.  
+🔹 **Traffic Monitoring System** – Designed an **AI-based traffic management solution** using **YOLO-V8**, reducing congestion by **35%**.  
+🔹 **Football Salary Prediction** – Developed an **ANN model** with **TensorFlow & Keras**, achieving **96.7% accuracy**.  
 
+🛠 **Tech Stack:**  
+- **Languages:** Java, Python, SQL  
+- **Backend:** Express.js, MongoDB, MySQL, Docker  
+- **ML & AI:** TensorFlow, Keras, PyTorch, OpenCV, Pandas, NumPy  
+- **Cloud & DevOps:** Docker, AWS (Basics)  
+
+📫 **Let's Connect:**  
+<a href="https://linkedin.com/in/varunraj8182" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>  
+<a href="https://github.com/VarunRaj1920" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="GitHub" height="30" width="40" />
+</a>  
+<a href="https://codeforces.com/profile/varunraj8182" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Codeforces_logo.svg" alt="Codeforces" height="30" width="40" />
+</a>  
+
+💡 Open to **collaborations, internships, and exciting software engineering roles!**  
